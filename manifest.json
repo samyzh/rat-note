@@ -1,0 +1,36 @@
+{
+  "name": "写作认知体系",
+  "short_name": "认知体系",
+  "description": "doc show detail",
+  "start_url": "/rat-summ/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#11a8cd",
+  "icons": [
+    {
+      "src": "/rat-summ/icons/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/rat-summ/icons/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/rat-summ/icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/rat-summ/icons/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/rat-summ/icons/128.png",
+      "type": "image/png",
+      "sizes": "128x144"
+    }
+  ]
+}
